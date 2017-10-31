@@ -3,7 +3,7 @@ Library Admin
 
 Live Demo
 ---------
-http://library.marifermunoz.com
+http://library-admin.marifermunoz.com
 
 Usage
 -----
